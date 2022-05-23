@@ -1,0 +1,24 @@
+.black {
+  background-color: black;
+}
+.white {
+  background-color: white;
+}
+
+.hidden-off {
+  display: none;
+}
+
+.toggle-off {
+  float: right;
+  position: inherit;
+}
+
+.hidden-on {
+  display: none;
+}
+
+.toggle-on {
+  float: right;
+  position: inherit;
+}
